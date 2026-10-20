@@ -27,3 +27,5 @@ Emissions are calculated as **activity data × emission factor**, and reported i
 
 - **Emission factors:** [DESNZ Greenhouse gas reporting: conversion factors 2025](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025), condensed set. The file isn't included in this repo. To check the factors, download the condensed set and save it in `data/raw/`.
 - **Activity data:** fictional, with assumptions documented on the Assumptions sheet of the workbook
+
+Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
