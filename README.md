@@ -17,7 +17,7 @@ The inventory follows the GHG Protocol Corporate Standard and covers the calenda
 
 | Scope | What's included | Status |
 |---|---|---|
-| Scope 1 | Gas used to heat the shop and studio | To do |
+| Scope 1 | Gas used to heat the shop and studio | In progress |
 | Scope 2 | Electricity used in the shop and studio (location-based and market-based) | In progress |
 | Scope 3 | Purchased goods (fabrics and garments), inbound transport, business travel, deliveries to customers | To do |
 
