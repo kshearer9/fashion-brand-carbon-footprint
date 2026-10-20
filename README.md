@@ -11,21 +11,19 @@ The brand is made up, but based loosely on the kind of small, design-led British
 - a small team who travel occasionally for work
 - online orders delivered to customers in the UK
 
-All activity data (energy use, quantities, distances) is invented.
-
 ## Scope and approach
 
-The inventory follows the GHG Protocol Corporate Standard, covering one reporting year.
+The inventory follows the GHG Protocol Corporate Standard and covers the calendar year 1 January to 31 December 2025.
 
 | Scope | What's included | Status |
 |---|---|---|
 | Scope 1 | Gas used to heat the shop and studio | To do |
-| Scope 2 | Electricity used in the shop and studio (location-based) | In progress |
+| Scope 2 | Electricity used in the shop and studio (location-based and market-based) | In progress |
 | Scope 3 | Purchased goods (fabrics and garments), inbound transport, business travel, deliveries to customers | To do |
 
 Emissions are calculated as **activity data × emission factor**, and reported in kg CO2e and tCO2e.
 
 ## Data
 
-- **Emission factors:** UK Government GHG Conversion Factors for Company Reporting (DESNZ), 2026 edition
-- **Activity data:** fictional, with assumptions documented in the notebook
+- **Emission factors:** [DESNZ Greenhouse gas reporting: conversion factors 2025](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025), condensed set. The file isn't included in this repo. To check the factors, download the condensed set and save it in `data/raw/`.
+- **Activity data:** fictional, with assumptions documented on the Assumptions sheet of the workbook
